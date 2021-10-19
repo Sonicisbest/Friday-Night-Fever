@@ -4,7 +4,7 @@
 <SubTexture name="Pico Down Note0002" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
 <SubTexture name="Pico Down Note0003" x="3012" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
 <SubTexture name="Pico Down Note0004" x="0" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
- <SubTexture name="Pico Down Note MISS0000" x="0" y="0" width="723" height="382" frameX="-10" frameY="-52" frameWidth="736" frameHeight="392"/>
+<SubTexture name="Pico Down Note MISS0000" x="0" y="0" width="723" height="382" frameX="-10" frameY="-52" frameWidth="736" frameHeight="392"/>
 <SubTexture name="Pico Down Note MISS0001" x="1245" y="0" width="495" height="432" frameX="-2" frameY="0" frameWidth="733" frameHeight="434"/>
 <SubTexture name="Pico Down Note MISS0002" x="1245" y="0" width="495" height="432" frameX="-2" frameY="0" frameWidth="733" frameHeight="434"/>
 <SubTexture name="Pico Down Note MISS0003" x="1750" y="0" width="499" height="426" frameX="0" frameY="-6" frameWidth="733" frameHeight="434"/>
