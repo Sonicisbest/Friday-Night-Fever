@@ -1,4 +1,4 @@
-## Week 1 - 100%
+## Week 1 - 99%
 ## Week 2 - 100%
 ## Week 3 - 99%
 ## Week 4 - Needs fixing 
