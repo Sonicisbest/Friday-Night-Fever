@@ -4112,10 +4112,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "feralspooky",
+		"player2": "spooky",
 		"player3": "gf",
 		"stage": "halloween",
-		"song": "Last-Meow",
+		"song": "South",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 195,
