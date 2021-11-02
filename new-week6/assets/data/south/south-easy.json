@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
-		"player2": "feralspooky",
+		"player2": "spooky",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -3642,7 +3642,7 @@
 		],
 		"player3": "gf",
 		"stage": "halloween",
-		"song": "Last-Meow",
+		"song": "South",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 2.6,
